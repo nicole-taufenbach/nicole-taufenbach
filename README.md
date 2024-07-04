@@ -4,7 +4,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="150" />
   
-💬 me chamo Nicole e trabalho na [Serasa Experian](https://empresas.serasaexperian.com.br/)
+💬 me chamo Nicole e trabalho na [Nubank](https://nubank.com.br/)
   
 <details>
 <summary>sobre mim:</summary>
@@ -21,8 +21,8 @@
   
   HashMap<String, String[]> techInfo = new HashMap<>();
   techInfo.put("stack", new String[] {"java", "scala", "python"});
-  techInfo.put("arquitetura", new String[] {"microsservicos", "clean arch"});
-  techInfo.put("cloud", new String[] {"aws s3", "aws eks", "aws ec2"});
+  techInfo.put("arquitetura", new String[] {"microservices", "clean arch"});
+  techInfo.put("cloud", new String[] {"aws"});
   ```
   </div>
 </details>
